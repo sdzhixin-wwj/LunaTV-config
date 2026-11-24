@@ -1,52 +1,6 @@
 {
   "sites": [
     {
-      "key": "kids_wujin",
-      "name": "🐣 儿童动画·无尽",
-      "type": 1,
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "categories": [
-        "儿童儿歌",
-        "动画片",
-        "动漫",
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫"
-      ],
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "kids_suoni",
-      "name": "🐣 儿童动画·索尼",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "categories": [
-        "儿童儿歌",
-        "动画片"
-      ],
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "kids_shandian",
-      "name": "🐣 儿童动画·闪电",
-      "type": 1,
-      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
-      "categories": [
-        "动画片",
-        "动漫",
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫"
-      ],
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
       "key": "iqiyizyapi.com",
       "name": "🎬-爱奇艺-",
       "type": 1,
