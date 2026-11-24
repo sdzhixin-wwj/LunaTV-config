@@ -7,7 +7,13 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "dbzy.tv",
@@ -25,7 +31,12 @@
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫"
+      ]
     },
     {
       "key": "wolongzyw.com",
@@ -43,7 +54,13 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "dyttzyapi.com",
@@ -52,7 +69,12 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影片",
+        "连续剧",
+        "动画片"
+      ]
     },
     {
       "key": "www.maoyanzy.com",
@@ -61,7 +83,13 @@
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "cj.lzcaiji.com",
@@ -70,7 +98,12 @@
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影片",
+        "连续剧",
+        "动画片"
+      ]
     },
     {
       "key": "360zy.com",
@@ -79,7 +112,13 @@
       "api": "https://360zyzz.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "jszyapi.com",
@@ -88,7 +127,13 @@
       "api": "https://jszyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "www.moduzy.net",
@@ -97,7 +142,12 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺"
+      ]
     },
     {
       "key": "ffzyapi.com",
@@ -106,7 +156,12 @@
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影片",
+        "连续剧",
+        "动漫片"
+      ]
     },
     {
       "key": "bfzy.tv",
@@ -115,7 +170,12 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影片",
+        "连续剧",
+        "动画片"
+      ]
     },
     {
       "key": "zuida.xyz",
@@ -124,7 +184,13 @@
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "wujinzy.me",
@@ -133,7 +199,13 @@
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "xinlangapi.com",
@@ -142,7 +214,13 @@
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "api.wwzy.tv",
@@ -160,7 +238,13 @@
       "api": "https://subocaiji.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "jinyingzy.com",
@@ -169,7 +253,13 @@
       "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "p2100.net",
@@ -187,7 +277,13 @@
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "api.guangsuapi.com",
@@ -196,7 +292,13 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "www.hongniuzy.com",
@@ -205,7 +307,13 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "caiji.moduapi.cc",
@@ -214,7 +322,12 @@
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺"
+      ]
     },
     {
       "key": "www.ryzyw.com",
@@ -223,7 +336,12 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影片",
+        "连续剧",
+        "动漫片"
+      ]
     },
     {
       "key": "www.haohuazy.com",
@@ -232,7 +350,13 @@
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "bdzy1.com",
@@ -241,7 +365,13 @@
       "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "lovedan.net",
@@ -250,7 +380,13 @@
       "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "lzizy.net",
@@ -259,7 +395,12 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影片",
+        "连续剧",
+        "动画片"
+      ]
     },
     {
       "key": "zuidazy.co",
@@ -268,7 +409,13 @@
       "api": "https://zuidazy.me/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "wujinzy.com",
@@ -277,7 +424,13 @@
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "wwzy.tv",
@@ -295,7 +448,13 @@
       "api": "https://api.yzzy-api.com/inc/apijson.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "www.huyaapi.com",
@@ -304,7 +463,13 @@
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "yayazy3.com",
@@ -313,7 +478,13 @@
       "api": "https://cj.yayazy.net/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "suonizy.net",
@@ -322,7 +493,13 @@
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "kuaichezy.com",
@@ -331,7 +508,13 @@
       "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "shandianzy.com",
@@ -340,7 +523,13 @@
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "yhzy.cc",
@@ -349,7 +538,13 @@
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
     }
   ],
   "lives": [],
