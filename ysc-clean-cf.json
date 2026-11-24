@@ -1,0 +1,296 @@
+{
+  "sites": [
+    {
+      "key": "iqiyizyapi.com",
+      "name": "🎬-爱奇艺-",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9pcWl5aXp5YXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9k",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mtzy.me",
+      "name": "🎬茅台资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9jYWlqaS5tYW90YWl6eS5jYy9hcGkucGhwL3Byb3ZpZGUvdm9k",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ikunzy.com",
+      "name": "🎬iKun资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9pa3VuenlhcGkuY29tL2FwaS5waHAvcHJvdmlkZS92b2Q",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dyttzyapi.com",
+      "name": "🎬电影天堂",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cDovL2NhaWppLmR5dHR6eWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "www.maoyanzy.com",
+      "name": "🎬猫眼资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9hcGkubWFveWFuYXBpLnRvcC9hcGkucGhwL3Byb3ZpZGUvdm9k",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cj.lzcaiji.com",
+      "name": "🎬量子资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9jai5semNhaWppLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9k",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "360zy.com",
+      "name": "🎬360 资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly8zNjB6eXp6LmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9k",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jszyapi.com",
+      "name": "🎬极速资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9qc3p5YXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9k",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "www.moduzy.net",
+      "name": "🎬魔都资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly93d3cubWR6eWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ffzyapi.com",
+      "name": "🎬非凡资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9hcGkuZmZ6eWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "bfzy.tv",
+      "name": "🎬暴风资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9iZnp5YXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9k",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zuida.xyz",
+      "name": "🎬最大资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9hcGkuenVpZGFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wujinzy.me",
+      "name": "🎬无尽资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9hcGkud3VqaW5hcGkubWUvYXBpLnBocC9wcm92aWRlL3ZvZA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xinlangapi.com",
+      "name": "🎬新浪资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9hcGkueGlubGFuZ2FwaS5jb20veGlubGFuZ2FwaS5waHAvcHJvdmlkZS92b2Q",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "www.subozy.com",
+      "name": "🎬速播资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9zdWJvY2FpamkuY29tL2FwaS5waHAvcHJvdmlkZS92b2Q",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jinyingzy.com",
+      "name": "🎬金鹰点播",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9qeXp5YXBpLmNvbS9wcm92aWRlL3ZvZC9mcm9tL2ppbnlpbmd5dW4vYXQvanNvbg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.ukuapi88.com",
+      "name": "🎬U酷影视",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9hcGkudWt1YXBpODguY29tL2FwaS5waHAvcHJvdmlkZS92b2Q",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.guangsuapi.com",
+      "name": "🎬光速资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9hcGkuZ3VhbmdzdWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "www.hongniuzy.com",
+      "name": "🎬红牛资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly93d3cuaG9uZ25pdXp5Mi5jb20vYXBpLnBocC9wcm92aWRlL3ZvZA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji.moduapi.cc",
+      "name": "🎬魔都动漫",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9jYWlqaS5tb2R1YXBpLmNjL2FwaS5waHAvcHJvdmlkZS92b2Q",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "www.ryzyw.com",
+      "name": "🎬如意资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9jai5yeWNqYXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9k",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "www.haohuazy.com",
+      "name": "🎬豪华资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9oaHp5YXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9k",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lzizy.net",
+      "name": "🎬量子影视",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9jai5semlhcGkuY29tL2FwaS5waHAvcHJvdmlkZS92b2Q",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zuidazy.co",
+      "name": "🎬最大点播",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly96dWlkYXp5Lm1lL2FwaS5waHAvcHJvdmlkZS92b2Q",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wujinzy.com",
+      "name": "🎬无尽影视",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9hcGkud3VqaW5hcGkuY29tL2FwaS5waHAvcHJvdmlkZS92b2Q",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "1080zyk4.com",
+      "name": "🎬优质资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9hcGkueXp6eS1hcGkuY29tL2luYy9hcGlqc29uLnBocA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "www.huyaapi.com",
+      "name": "🎬虎牙资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly93d3cuaHV5YWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yayazy3.com",
+      "name": "🎬鸭鸭资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9jai55YXlhenkubmV0L2FwaS5waHAvcHJvdmlkZS92b2Q",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "suonizy.net",
+      "name": "🎬索尼资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9zdW9uaWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kuaichezy.com",
+      "name": "🎬快车资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9jYWlqaS5rdWFpY2hlenkub3JnL2FwaS5waHAvcHJvdmlkZS92b2Q",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "shandianzy.com",
+      "name": "🎬闪电资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly94c2Quc2R6eWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yhzy.cc",
+      "name": "🎬樱花资源",
+      "type": 1,
+      "api": "https://ysc-filter.silent-field-6737.workers.dev/p/ysc-9f2c7a1b/aHR0cHM6Ly9tM3U4LmFwaXloenkuY29tL2FwaS5waHAvcHJvdmlkZS92b2Q",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "rules": [],
+  "ads": []
+}
